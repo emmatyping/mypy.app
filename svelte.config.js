@@ -12,7 +12,9 @@ const config = {
 		enableSourcemap: true
 	},
 	kit: {
-		adapter: vercel()
+		adapter: vercel({
+			runtime: "node24.x"
+		})
 	}
 };
 
