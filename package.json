@@ -44,7 +44,7 @@
 		"@codemirror/view": "^6.39.4",
 		"@lezer/common": "1.0.2",
 		"@sentry/browser": "^10.31.0",
-		"@sentry/svelte": "^7.120.4",
+		"@sentry/svelte": "^10.31.0",
 		"@sentry/tracing": "^7.120.4",
 		"@sveltejs/adapter-vercel": "^4.0.0",
 		"ansi-to-html": "^0.7.2",

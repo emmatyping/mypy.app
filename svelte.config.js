@@ -13,7 +13,7 @@ const config = {
 	},
 	kit: {
 		adapter: vercel({
-			runtime: "node24.x"
+			runtime: "nodejs24.x"
 		})
 	}
 };
